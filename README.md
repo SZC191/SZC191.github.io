@@ -20,8 +20,8 @@
     <nav>
         <ul>
             <li><a href="#home">首页</a></li>
-            <li><a href="关于.html" target="_blank">关于</a></li>
-            <li><a href="资源" target="_blank">资源</a></li>   <!-- 新增 -->
+            <li><a href="Create关于" target="_blank">关于</a></li>
+            <li><a href="Create资源" target="_blank">资源</a></li>   <!-- 新增 -->
             <li><a href="#contact">联系方式</a></li>
             <li><a href="玩家论坛.html" target="_blank">玩家论坛</a></li>
         </ul>
